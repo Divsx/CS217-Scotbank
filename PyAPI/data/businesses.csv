@@ -1,0 +1,104 @@
+id,name,category,sanctioned
+GMC,GreenMarket Co.,Groceries,false
+HLT,HealthyLife Therapy,Health,true
+TRX,TriX Technologies,Technology,false
+BFC,BlueFin Capital,Finance,true
+NHT,New Horizon Travels,Travel,false
+ELG,Elegance Garments,Clothing,true
+MXC,MaxCore Construction,Construction,false
+FRM,FarmRoot Market,Groceries,true
+VST,VistaSoft Tech,Technology,false
+BRN,BurnFit Gym,Fitness,false
+CNC,Clean&Clear Services,Cleaning,true
+GRS,Greenscape Solutions,Landscaping,false
+HMC,HomeMedic Care,Health,true
+SLV,SilverVault Bank,Finance,false
+STN,StoneNest Realty,Real Estate,false
+KRN,Karen's Kitchen,Groceries,true
+TRZ,TerraZoom Logistics,Logistics,false
+FLX,FlexiMove Transport,Transportation,true
+MDX,Medix Supplies,Medical,true
+OPL,Opal Learning,Education,false
+DTX,DataTex Analytics,Technology,true
+BSP,Breeze Spa,Wellness,false
+WLD,WildRoot Organics,Groceries,false
+NRG,NeuroGenics Lab,Health,true
+SGF,SageFoods Co.,Groceries,false
+BLZ,Blaze Entertainment,Entertainment,true
+HTC,Hecto Communications,Telecom,false
+DMN,Dominion Networks,Technology,true
+CRT,CoreRetail Traders,Retail,false
+SNK,Snacky Time,Groceries,true
+QNT,Quantus Finance,Finance,false
+ELX,Elixir Wellness,Wellness,true
+FRQ,FreqSound Audio,Electronics,false
+TRM,ThermoMax HVAC,Construction,true
+GZN,GizmoNest,Electronics,false
+MDL,Modelia Fashion,Clothing,false
+CXP,CoreXp Logistics,Logistics,true
+PRT,PrintRoot Studios,Printing,false
+HBR,Harbor Realty,Real Estate,true
+TBC,TurboClean Services,Cleaning,false
+BLM,Bloom & More,Floral,false
+SKN,Skinova Dermatology,Health,true
+FNB,FreshNBox,Groceries,false
+LCX,Logicore Systems,Technology,true
+VYN,Vynil Vibes,Music,false
+RTG,RouteGrid Transport,Transportation,true
+PNX,Phoenix Hardware,Hardware,false
+NBL,Noble Brew,Beverages,true
+JMC,JumpStart Media,Marketing,false
+HLD,Heldon Law,Legal,false
+BRS,BrightStep School,Education,true
+SNB,Snoozy Beds,Furniture,false
+ARX,ArxEnergy Ltd,Energy,true
+MLX,Milux Lighting,Home Goods,false
+ZPT,ZipTrip Rides,Transportation,true
+CRW,CrowneWorks,Construction,false
+PLT,Planté Nursery,Gardening,false
+VFX,Vortex FX Studio,Entertainment,true
+HTR,Hartford Research,Research,false
+GHC,Global Health Corp,Health,true
+MXR,MaxRide Autos,Automotive,false
+FRS,Frosty Spoon,Food,true
+CLQ,Cliq Technologies,Technology,false
+SBK,SunBake Foods,Bakery,true
+OPX,Optex Surveillance,Security,false
+WVN,Weaven Textiles,Clothing,true
+TRF,TrustFront Insurance,Insurance,false
+DLT,DeltaStream Media,Streaming,true
+GLO,GloCare Skincare,Health,false
+FNT,Fontania Wines,Beverages,true
+NXT,NextEdge Design,Creative,false
+BKT,BasketBite,Groceries,true
+ZRC,Zeric Robotics,Technology,false
+MDS,Modesty Apparel,Clothing,true
+RCH,Reach Digital,Marketing,false
+ENV,Envirosafe Cleaners,Cleaning,true
+RVD,Revolve Fitness,Fitness,false
+LBR,LumbarMed Devices,Medical,true
+XTL,Xtela Systems,Technology,false
+DRM,DreamCatch Resorts,Hospitality,true
+WLF,Wolf & Co. Security,Security,false
+PGM,Programix Solutions,Software,true
+ZBR,ZebraNet Telecom,Telecom,false
+KFX,KitchenFix,Appliances,true
+FWD,Forward Logistics,Logistics,false
+CRN,Crown Jewelers,Jewelry,true
+SKP,Skiply Rides,Transportation,false
+GLB,Global Bin Traders,Recycling,true
+THN,Thorne Nutrition,Health,false
+VBR,VibeRise Music,Music,true
+BLC,Balance Law,Legal,false
+MTX,MetroFix Maintenance,Maintenance,true
+SPL,SimpleLines Design,Creative,false
+TLM,Tulum Essentials,Retail,true
+NTC,NutraCore Labs,Health,false
+HRM,Harmony Homes,Real Estate,true
+FTG,FatTiger Burgers,Food,false
+EQT,Equitix Investment,Finance,true
+JRX,Jarrix Systems,Technology,false
+RFT,Refit Motors,Automotive,true
+SNW,Snowbell Apparel,Clothing,false
+PLX,PixelTree Studios,Media,true
+RXT,RexTex Fabrics,Textiles,false
