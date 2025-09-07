@@ -127,4 +127,4 @@ While this repository is a personal version, it is based on group work and exten
 
 ## 🙏 Thank You
 
-Special thanks to the team at **JPMorgan** for their partnership and industry guidance throughout the module, and to my teammates: [@Divsx](https://github.com/Divsx), [@hudasudi](https://github.com/hudasudi) and others for their contributions, collaboration and shared commitment to delivering a high quality solution.
+Special thanks to the team at **JPMorgan** for their partnership and industry guidance throughout the module, and to my teammates: [@Divsx](https://github.com/Divsx), [@hudasudi](https://github.com/hudasudi), [@adamhegarty](https://github.com/adamhegarty) and others for their contributions, collaboration and shared commitment to delivering a high quality solution.
